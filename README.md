@@ -1,2 +1,2 @@
 # rsschool-cv
-Task Markdown &amp; Git
+[https://AlexZro.github.io/rsschool-cv/cv](https://AlexZro.github.io/rsschool-cv/cv)
